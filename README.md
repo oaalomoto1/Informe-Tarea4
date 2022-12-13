@@ -4,9 +4,17 @@
 
 ***1.1 OBJETIVO GENERAL.***
 
+*Estudiar la teoria fundamental de los circuitos en serie- paralelo y los principales teoremas de circuitos y conversiones, con ayuda de informacion proporcionada por el libro de Floyd contenida en mapas conceptaules y la realizacion de ejercicios, para tener un mayor dominio en estos dos temas que seran fundamentales para el estudio de siguientes temas.* 
 
 ***1.2 OBJETIVOS ESPECÍFICOS.***
 
+*Indagar como las relaciones de un circuito serie-paralelo.*
+
+*Aprender la conversion de delta a Y y de Y a delta.*
+
+*Identificar los principales teoremas que se pueden aplicar para el calculo de un circuito electrico.*
+
+*Diferenciar la teoria de fuente de voltaje y fuente de corritente presentes en un circuito.*
 
 ## 2. MARCO TEÓRICO (RESUMEN)
 
