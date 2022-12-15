@@ -233,6 +233,9 @@
 
 ## 4. VIDEO
 
+*Link del video en YouTube:*
+
+https://youtu.be/5N1bsFFDk9Y
 
 ## 5. CONCLUSIONES
 
@@ -246,3 +249,4 @@
 
 ## 6. BIBLIOGRAFÍA
 
+-Floyd, T. L. (2007). Principios de circuitos electricos. (8.a ed.). México. Pearson Educación.
