@@ -4,17 +4,17 @@
 
 ***1.1 OBJETIVO GENERAL.***
 
-*Estudiar la teoria fundamental de los circuitos en serie- paralelo y los principales teoremas de circuitos y conversiones, con ayuda de informacion proporcionada por el libro de Floyd contenida en mapas conceptaules y la realizacion de ejercicios, para tener un mayor dominio en estos dos temas que seran fundamentales para el estudio de siguientes temas.* 
+*-Estudiar la teoria fundamental de los circuitos en serie- paralelo y los principales teoremas de circuitos y conversiones, con ayuda de informacion proporcionada por el libro de Floyd contenida en mapas conceptaules y la realizacion de ejercicios, para tener un mayor dominio en estos dos temas que seran fundamentales para el estudio de siguientes temas.* 
 
 ***1.2 OBJETIVOS ESPECÍFICOS.***
 
-*Indagar como las relaciones de un circuito serie-paralelo.*
+*-Indagar la importancia de las relaciones de un circuito serie-paralelo.*
 
-*Aprender la conversion de delta a Y y de Y a delta.*
+*-Aprender la conversión de delta a Y y de Y a delta.*
 
-*Identificar los principales teoremas que se pueden aplicar para el calculo de un circuito electrico.*
+*-Identificar los principales teoremas que se pueden aplicar para el calculo de un circuito electrico.*
 
-*Diferenciar la teoria de fuente de voltaje y fuente de corritente presentes en un circuito.*
+*-Diferenciar la teoria de fuente de voltaje y fuente de corriente presentes en un circuito.*
 
 ## 2. MARCO TEÓRICO (RESUMEN)
 
@@ -236,6 +236,13 @@
 
 ## 5. CONCLUSIONES
 
+*-La importancia que tienen las relaciones de un circuito serie-paralelo, es mas para el desarrollo de ejercicios que se pueden proponer, y es fundamental tener claro cada concepto y definición de circuito en serie y paralelo por separado, además de dominar y entender donde y como se aplica las LVK y LCK.*
+
+*-Dominar la conversión de delta a Y y viceversa resulta importante ya que podremos convertir circuitos de una forma a otra y aplicar los conceptos con los cual nos sintamos mejor o tengamos un mayor dominio, además la rapidez y facilidad que resulta usar este tipo de conversión facilita la hora de resolver problemas de circuitos.*
+
+*-Los teoremas vistos en este capitulo como el de Norton por mencionar uno presentan ventajas y desventajas para el desarrollo de problemas de circuitos, ya que cada uno ofrece métodos de resolución, que se acopla al circuito.*
+
+*-La fuente de voltaje y fuente de corriente en un circuito eléctrico es indispensable saber diferenciar su teoría ya que en base a dicha teoría es que podemos usar ya sea la fuente de voltaje o transformarla a una fuente de corriente para mayor compresión o facilidad de resolución de ejercicios presentes en los circuitos.*
 
 ## 6. BIBLIOGRAFÍA
 
